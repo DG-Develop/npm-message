@@ -1,0 +1,20 @@
+{
+  "name": "random-platzi-npm",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "David A. Gomez Pacheco <dgdband@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "message-platzi-npm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
